@@ -6,3 +6,4 @@ dist
 .cache
 
 /credentials.py
+text/*.txt
